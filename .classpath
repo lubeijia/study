@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/kafka/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/kafka_2.8.0-0.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/scala-library.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/db/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/db/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="lib/kafka/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/curator-client-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/curator-framework-2.5.0.jar" sourcepath="C:/Users/wuyong/.m2/repository/org/apache/curator/curator-framework/2.5.0/curator-framework-2.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/curator-recipes-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/jline-0.9.94.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
