@@ -7,10 +7,7 @@ package com.wy.junit;
 public class Test {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-        String test = "abc";
-        System.out.println(test.length());
-        System.out.println(test.substring(0, test.length() - 1));
+        
     }
 
 }
