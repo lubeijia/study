@@ -7,7 +7,7 @@ package com.wy.junit;
 public class Test {
 
     public static void main(String[] args) {
-        
+        //update
     }
 
 }
